@@ -1,4 +1,4 @@
-/* @flow */
+/* @flow test */
 
 import React from 'react';
 import { Component, PropTypes, Transition, View } from '../../libs';
